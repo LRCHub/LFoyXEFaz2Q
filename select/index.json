@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "絶対零度",
+  "base_artist": "なとり",
+  "createdAt": "2025-12-14T10:16:37.486554Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "絶対零度",
+      "artist": "なとり",
+      "has_synced": true,
+      "path": "select/01_絶対零度_なとり.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "絶対零度",
+      "artist": "natori",
+      "has_synced": false,
+      "path": "select/02_絶対零度_natori.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "絶対零度",
+      "artist": "なとり",
+      "has_synced": true,
+      "path": "select/03_絶対零度_なとり.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "絶対零度",
+      "artist": "なとり (natori)",
+      "has_synced": true,
+      "path": "select/04_絶対零度_なとり_(natori).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "絶対零度",
+      "artist": "AKAIKO-EN",
+      "has_synced": true,
+      "path": "select/05_絶対零度_AKAIKO-EN.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "絶対零度",
+      "artist": "赤い公園",
+      "has_synced": true,
+      "path": "select/06_絶対零度_赤い公園.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "絶対零度",
+      "artist": "なとり",
+      "has_synced": false,
+      "path": "select/pl_01_絶対零度_なとり.txt"
+    }
+  ]
+}
